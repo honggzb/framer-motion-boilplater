@@ -4,6 +4,6 @@
 2. `npm run dev`
 3. Open http://localhost:5173 to view it in the browser pages
 
-| Effect | pages|
+| pages | Effect|
 |---|---|
 |Open cards|![Opencards](./src/assets/thumbnail/Opencards.png)|
